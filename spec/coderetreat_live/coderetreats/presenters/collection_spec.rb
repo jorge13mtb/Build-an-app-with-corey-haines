@@ -2,7 +2,6 @@ require 'coderetreats/presenters/collection'
 
 describe CoderetreatLive::Coderetreats::Presenters::Collection do
 	context "getting the coderetreats grouped by status" do
-
 		let(:not_started) { stub("not_started", status: "not_started")}	
 		let(:in_session) { stub("in_session", status: "in_session")}
 		let(:coderetreats) { [not_started, in_session]}

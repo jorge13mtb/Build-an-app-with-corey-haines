@@ -333,3 +333,87 @@ Processing by CoderetreatsController#running_today as HTML
   Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
 Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
   [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:08:57 -0600
+Processing by CoderetreatsController#running_today as HTML
+Completed 500 Internal Server Error in 42ms
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:08:57 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (4.9ms)
+Completed 200 OK in 4800ms (Views: 4798.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.7ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:13:57 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (4.7ms)
+Completed 200 OK in 64ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:13:57 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:14:14 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (4.7ms)
+Completed 200 OK in 65ms (Views: 39.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:14:14 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.2ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.5ms)
+Completed 200 OK in 58ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.5ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.6ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.6ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:17:15 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (4.5ms)
+Completed 200 OK in 62ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:17:15 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction

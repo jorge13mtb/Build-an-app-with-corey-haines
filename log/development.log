@@ -6365,3 +6365,77 @@ Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-07-07 17:51:3
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:09:11 -0600
+Processing by CoderetreatsController#running_today as HTML
+Completed 500 Internal Server Error in 31ms
+
+LoadError (Unable to autoload constant Coderetreats::Presenters::Collection, expected /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/coderetreat_live/coderetreats/presenters/collection.rb to define it):
+  app/controllers/coderetreats_controller.rb:10:in `running_today'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (119.2ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (4.7ms)
+Completed 200 OK in 285ms (Views: 260.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-07-07 21:12:36 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-07-07 21:13:05 -0600
