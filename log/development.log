@@ -2929,3 +2929,3439 @@ Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 20:34:04 
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 20:34:04 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-30 21:07:43 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/railties-4.0.0/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 37ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (5.5ms)
+Completed 200 OK in 99ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:07:56 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-30 21:27:55 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/railties-4.0.0/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 38ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:27:59 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (4.8ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 3464ms (Views: 3461.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:28:03 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:18 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 841ms (Views: 840.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:19 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:20 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 13ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:21 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:23 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:45 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 871ms (Views: 869.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.6ms)
+Completed 200 OK in 12ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:29:46 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:34 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 855ms (Views: 853.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:35 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:38 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:30:39 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:01 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 883ms (Views: 882.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:02 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 15ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:03 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 41ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 13ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.5ms)
+Completed 200 OK in 14ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:04 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:05 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:21 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 885ms (Views: 883.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 16ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:23 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:32 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 861ms (Views: 859.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:33 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.6ms)
+Completed 200 OK in 66ms (Views: 64.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:34 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 15ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:35 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:44 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 872ms (Views: 870.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 15ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:45 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:31:57 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 842ms (Views: 840.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:31:58 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:32:25 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 817ms (Views: 815.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:26 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:27 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:28 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:32:52 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 888ms (Views: 886.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:32:53 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:33:10 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 839ms (Views: 837.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:11 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:12 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:13 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:33:32 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 835ms (Views: 834.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:33 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:33:46 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.6ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 825ms (Views: 823.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:47 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:33:55 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 785ms (Views: 784.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:33:56 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 844ms (Views: 842.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:09 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:34:27 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 855ms (Views: 852.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:34:28 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:26 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:27 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:28 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:35:47 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.7ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 868ms (Views: 866.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:35:48 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:36:21 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 856ms (Views: 855.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:36:21 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:36:22 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:22 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:36:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:22 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:22 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:22 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:36:54 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 890ms (Views: 888.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:36:55 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:38:35 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 848ms (Views: 846.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:38:36 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:00 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 48ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (111.9ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:03 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 24ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (52.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (65.4ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:03 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 22ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.3ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.3ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 70ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (14.6ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 23ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (14.4ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 22ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.9ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 70ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.1ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:05 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.2ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:05 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.8ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:05 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 24ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.9ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:18 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 20ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.5ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:19 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 19ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.6ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:19 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 23ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.7ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:19 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 22ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.6ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:20 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 67ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.2ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:20 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 20ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.5ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:20 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 20ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.7ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:29 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 71ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.5ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:40:29 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 23ms
+
+ActionView::Template::Error (Invalid CSS after "i": expected "{", was "}"
+  (in /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/assets/stylesheets/custom.css.scss:17)):
+    2: <html>
+    3: <head>
+    4:   <title>CoderetreatLive</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/custom.css.scss:17
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__142443989157118670_25683940'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.7ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:41:01 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 819ms (Views: 817.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:02 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:03 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:41:17 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 803ms (Views: 801.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:41:18 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 859ms (Views: 858.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:18 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:21 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:42:31 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 833ms (Views: 831.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:32 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:42:44 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 889ms (Views: 887.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:45 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.5ms)
+Completed 200 OK in 18ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:42:48 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:44:04 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 923ms (Views: 921.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:44:05 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:22 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 854ms (Views: 852.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:23 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:24 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:46 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 865ms (Views: 863.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:47 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:48 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:48 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:48 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:48 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:48 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:49 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:49 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:49 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:49 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 15ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 13ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:50 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 13ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:45:51 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:46:09 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 6ms
+
+ActionView::Template::Error (Illegal nesting: nesting within plain text is illegal.):
+    14:     %h2 In Session
+    15:   %ul
+    16:     @coderetreats.in_session do |coderetreat|
+    17:       %li.coderetreat=coderetreat.location
+  app/views/coderetreats/running_today.html.haml:17
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.0ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:46:32 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (5.0ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("glyphicons-halflings-white.png") instead. (called from _app_views_layouts_application_html_erb__142443989157118670_25683940 at /home/jorge/AprendizPernix/Rails/rails_projects/coderetreat_live/app/views/layouts/application.html.erb:5)
+Completed 200 OK in 821ms (Views: 819.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:33 -0600
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (0.4ms)
+Completed 200 OK in 12ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-06-30 21:46:35 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2013-07-07 17:50:43 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/railties-4.0.0/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 114ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coderetreat" for 127.0.0.1 at 2013-07-07 17:50:50 -0600
+
+ActionController::RoutingError (No route matches [GET] "/coderetreat"):
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/jorge/.rvm/rubies/ruby-2.0.0-p195/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /home/jorge/.rvm/rubies/ruby-2.0.0-p195/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /home/jorge/.rvm/rubies/ruby-2.0.0-p195/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.5ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (4.0ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (329.7ms)
+
+
+Started GET "/coderetreat/running_today" for 127.0.0.1 at 2013-07-07 17:51:20 -0600
+
+ActionController::RoutingError (No route matches [GET] "/coderetreat/running_today"):
+  actionpack (4.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `block in call'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.0) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.0) lib/rails/rack/logger.rb:21:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.0) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  railties (4.0.0) lib/rails/engine.rb:511:in `call'
+  railties (4.0.0) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/jorge/.rvm/rubies/ruby-2.0.0-p195/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /home/jorge/.rvm/rubies/ruby-2.0.0-p195/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /home/jorge/.rvm/rubies/ruby-2.0.0-p195/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered /home/jorge/.rvm/gems/ruby-2.0.0-p195/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.2ms)
+
+
+Started GET "/coderetreats/running_today" for 127.0.0.1 at 2013-07-07 17:51:30 -0600
+Processing by CoderetreatsController#running_today as HTML
+  Rendered coderetreats/running_today.html.haml within layouts/application (4.4ms)
+Completed 200 OK in 710ms (Views: 708.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/assets/coderetreats.css?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/assets/coderetreats.js?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-07-07 17:51:31 -0600
